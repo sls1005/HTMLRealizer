@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="550"
+    android:viewportHeight="550">
+  <group android:scaleX="0.72527474"
+      android:scaleY="0.72527474"
+      android:translateX="151.26678"
+      android:translateY="73.70268">
+      <path
+            android:pathData="M 105,55 L 120,50 L 120,70 L 105,75 L 105,55 L 25,250 L 105,455 L 105,435 L 120,430 L 120,450 L 105,455 M 105,435 L 35,251 L 105,75 M 120,70 L 48,246 L 120,430 M 48,246 L 35,251 M 200,70 L 220,80 L 150,480 L 130,470 L 200,70 L 215,65 L 235,75 L 220,80 M 235,75 L 165,475 L 150,480 M 255,75 L 240,80 L 300,315 L210,505 L 210 480 L 290,315 L 240,110 L 240,80 M 255,75 L 315,310 L 300,315 M 315,310 L225,500 L210,505"
+            android:strokeWidth="3"
+            android:strokeColor="#59FFFF" />
+  </group>
+</vector>
