@@ -5,7 +5,7 @@
     <string name="inf_text2">The text can then be edited or copied.</string>
     <string name="inf_text3">However, the style might not be retained if you paste it somewhere else. Whether or how it is kept depends on how much the other app allows/supports it.</string>
     <string name="inf_title2">Source code</string>
-    <string name="inf_text4">The source code of this app is available at https://github.com/sls1005/URLRealizer, under the MIT license.</string>
+    <string name="inf_text4">The source code of this app is available at https://github.com/sls1005/HTMLRealizer, under the MIT license.</string>
     <string name="inf_button1">Show open-source libraries</string>
     <string name="lic_title_1">Licenses</string>
 </resources>
